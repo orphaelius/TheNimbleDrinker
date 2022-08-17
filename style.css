@@ -5,7 +5,8 @@ body {
     background-image: url(hopkinsville2.jpg);
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 70%;
+    background-position: 34rem -55rem;    
+    width: 70%
     font-family: 'Open Sans', sans-serif; 
     font-size: .8rem;
 }
@@ -60,6 +61,18 @@ body {
     font-weight: light;
     line-height: 30px;
     color: #000000;      
+}
+
+.submit {
+    position: relative;
+    width: 7rem;
+    height: 2.5rem;
+    background: #A5C9CA;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;   
+    border: #E7F6F2;
+    margin-top: .6rem;
+    margin-left: 5.5rem;
 }
 
 
