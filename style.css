@@ -1,0 +1,65 @@
+
+body {
+    background: #E7F6F2;
+    margin: 2rem;
+    background-image: url(hopkinsville2.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 70%;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: .8rem;
+}
+
+.title {
+    position: relative;
+    width: 45rem;
+    height: 3.25rem;        
+    display: inline-block;    
+    margin-bottom: 3rem;
+}
+
+.nimble {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: light;
+    font-size: 50px;
+    line-height: 52px;        
+    color: #000000;
+}
+
+.desc {        
+    width: 370px;
+    height: 105px;          
+}
+
+.insights {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;  
+}
+
+.input-container {
+    margin-top: 10rem;    
+}
+
+.input {
+    position: relative;
+    width: 20rem;
+    height: 2.5rem;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;   
+    border: #E7F6F2;
+    margin-top: .6rem;
+    margin-bottom: .8rem;    
+}
+
+.input-heading {     
+    font-size: 1rem;
+    font-weight: light;
+    line-height: 30px;
+    color: #000000;      
+}
+
+
